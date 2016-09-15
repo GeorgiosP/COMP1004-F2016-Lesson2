@@ -1,0 +1,9 @@
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\bin\Debug\lesson2.exe.config
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\bin\Debug\lesson2.exe
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\bin\Debug\lesson2.pdb
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\obj\Debug\lesson2.csprojResolveAssemblyReference.cache
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\obj\Debug\lesson2.InvoiceTotalForm.resources
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\obj\Debug\lesson2.Properties.Resources.resources
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\obj\Debug\lesson2.csproj.GenerateResource.Cache
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\obj\Debug\lesson2.exe
+C:\Users\gpsar\Documents\COPA\Rad-P\lesson2\lesson2\lesson2\obj\Debug\lesson2.pdb
